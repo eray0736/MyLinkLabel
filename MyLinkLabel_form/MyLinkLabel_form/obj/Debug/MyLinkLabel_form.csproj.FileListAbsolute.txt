@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.Properties.Resources.resources
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\bin\Debug\MyLinkLabel_form.exe.config
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\bin\Debug\MyLinkLabel_form.exe
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\bin\Debug\MyLinkLabel_form.pdb
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.exe
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.pdb
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.Form1.resources
+C:\Users\User\source\repos\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\bin\Debug\MyLinkLabel_form.exe.config
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\bin\Debug\MyLinkLabel_form.exe
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\bin\Debug\MyLinkLabel_form.pdb
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.Form1.resources
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.Properties.Resources.resources
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.exe
+C:\Users\User\Desktop\görsel programlama\proje 2\MyLinkLabel_form\MyLinkLabel_form\obj\Debug\MyLinkLabel_form.pdb
